@@ -1,5 +1,7 @@
 # TorresOlvera_pr1_variables
 
+En este codigo pusimos en practica las variables
+
 Torres Olvera Gael
 
 #En esta practica practicamos con las formas de establecer las variables
